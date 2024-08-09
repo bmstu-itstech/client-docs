@@ -11,3 +11,9 @@
 ---
 
 -   Используйте линтер, как минимум пока-что форматтер,
+
+`Разделы`
+- __[Components](./COMPONENTS.md)__
+- __[Git](./GIT.md)__
+- __[Issue](./ISSUE.md)__
+- __[Storybook](./STORYBOOK.md)__
